@@ -26,7 +26,7 @@ This tool provides a simple yet effective way to encrypt and decrypt images usin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/SCT_CS_2.git
+   git clone https://github.com/kur1an/SCT_CS_2.git
    cd SCT_CS_2
    ```
 
@@ -39,14 +39,14 @@ This tool provides a simple yet effective way to encrypt and decrypt images usin
 ## Usage
 
 1. **Encrypt an Image**:
-   - Run the script: `python image_encryption_tool.py`
+   - Run the script: `python image_tool.py`
    - Choose the encryption mode.
    - Provide the input image path.
    - Specify the output path for the encrypted image.
    - Enter the encryption key.
 
 2. **Decrypt an Image**:
-   - Run the script: `python image_encryption_tool.py`
+   - Run the script: `python image_tool.py`
    - Choose the decryption mode.
    - Provide the input image path (encrypted image).
    - Specify the output path for the decrypted image.
@@ -57,8 +57,8 @@ This tool provides a simple yet effective way to encrypt and decrypt images usin
 Encrypt an image:
 
 ```bash
-python image_encryption_tool.py
-Choose mode (encrypt/decrypt): encrypt
+python image_tool.py
+Choose mode (encrypt/decrypt)e/d: e
 Enter the input image path: input_image.jpg
 Enter the output image path: encrypted_image.jpg
 Enter the encryption key: 12345
@@ -68,15 +68,8 @@ Decrypt an image:
 
 ```bash
 python image_encryption_tool.py
-Choose mode (encrypt/decrypt): decrypt
+Choose mode (encrypt/decrypt)e/d: d
 Enter the input image path: encrypted_image.jpg
 Enter the output image path: decrypted_image.jpg
 Enter the decryption key: 12345
 ```
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-You can customize this README file further to include additional information or instructions specific to your project.
