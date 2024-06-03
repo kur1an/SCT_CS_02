@@ -34,9 +34,3 @@ Mathematical operations can be applied to the RGB values of pixels to further al
 2. **Reverse Pixel Manipulation**: Undo the pixel swaps and mathematical operations using the same cryptographic key.
 3. **Save Decrypted Image**: Save the restored image to a new file.
 
-## Installation
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/SCT_CS_2.git
-   cd SCT_CS_2
