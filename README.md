@@ -1,6 +1,3 @@
-Here's a `README.md` file for your image encryption tool:
-
-```markdown
 # Image Encryption Tool
 
 This tool provides a simple yet effective way to encrypt and decrypt images using pixel manipulation techniques. It allows users to securely alter image data using a key-based encryption method.
